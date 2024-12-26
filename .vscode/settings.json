@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "cmath": "cpp",
+    "algorithm": "cpp",
+    "format": "cpp",
+    "ostream": "cpp",
+    "iomanip": "cpp",
+    "bitset": "cpp"
+  }
+}
