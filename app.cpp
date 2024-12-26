@@ -135,6 +135,7 @@ void DataTypeGuessing(){
 // ======================== I. Lucky Numbers ========================//
 
 void LuckyNumbers(){
+
   string num;
   cin >> num;
 
@@ -151,4 +152,20 @@ void LuckyNumbers(){
       cout << "NO";
     }
   }
+}
+
+
+int main(){
+
+  // Winter_Sale();                              A
+  // MemoAndMomo();                              B
+  // NextAlphabet();                             C
+  // AliBabaAndPuzzles();                        D
+  // IntervalSweep();                            E
+  // AddingBits();                               F
+  // Katryoshka();                               G
+  // DataTypeGuessing();                         H
+  // LuckyNumbers();                             I
+
+  return 0;
 }
